@@ -25,22 +25,22 @@ Exploring bugfixes, features, json, github for C:DDA
 
 4) Recipies
 
-  A) barbecue sauce (sealed)
+    A) barbecue sauce (sealed)
   
-  B) ketchup (sealed)
+    B) ketchup (sealed)
   
-  C) horseradish (sealed)
+    C) horseradish (sealed)
   
-  D) thyme oil - bulk Thyme Oil is ~2hr for one ... ~4hrs for 2.
+    D) thyme oil - bulk Thyme Oil is ~2hr for one ... ~4hrs for 2.
   
-  E) smelt candles together
+    E) smelt candles together
   
-  F) fat candle
+    F) fat candle
   
-  G) candelabra
+    G) candelabra
 
 5) Constructions
 
-  A) Glass-door with curtain
+    A) Glass-door with curtain
   
-  B) Glass-wall with curtain
+    B) Glass-wall with curtain
