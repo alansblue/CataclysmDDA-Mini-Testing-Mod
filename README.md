@@ -22,3 +22,25 @@ Exploring bugfixes, features, json, github for C:DDA
     C) base-crate
     
     D) Tailoring Stuffbag (scraps, etc)
+
+4) Recipies
+
+  A) barbecue sauce (sealed)
+  
+  B) ketchup (sealed)
+  
+  C) horseradish (sealed)
+  
+  D) thyme oil - bulk Thyme Oil is ~2hr for one ... ~4hrs for 2.
+  
+  E) smelt candles together
+  
+  F) fat candle
+  
+  G) candelabra
+
+5) Constructions
+
+  A) Glass-door with curtain
+  
+  B) Glass-wall with curtain
